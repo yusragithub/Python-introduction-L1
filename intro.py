@@ -7,3 +7,5 @@ print (c)
 d = 5
 e = 20
 print(d + e)
+import keyword
+print(keyword.kwlist)
